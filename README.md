@@ -1,4 +1,4 @@
-## Teste Automatizado da NF-e avaliação QA 
+## Teste Automatizado da NF-e - Avaliação QA 
 
 ## Tecnologia
 - Playwright
